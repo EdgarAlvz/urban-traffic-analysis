@@ -38,6 +38,9 @@ The objective is to identify trends, clean inconsistent datasets, and generate i
 - Data preprocessing was essential due to formatting inconsistencies.
 - Economic indicators may influence urban traffic behavior.
 
+## Visualization
+
+![GDP Distribution](images/gdp_distribution.png)
 ---
 
 ## Project Status
