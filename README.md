@@ -16,17 +16,11 @@ The objective is to identify trends, clean inconsistent datasets, and generate i
 
 ---
 
-## Project Structure
+## Repository Contents
 
-```text
-urban-traffic-analysis/
-│
-├── data/
-├── images/
-├── notebooks/
-│   └── urban_traffic_analysis.ipynb
-└── README.md
-```
+- `data/` → datasets used in the analysis
+- `notebooks/` → Jupyter notebook with data cleaning and analysis
+- `images/` → visualizations and project screenshots
 
 ---
 
