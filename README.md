@@ -40,7 +40,7 @@ The objective is to identify trends, clean inconsistent datasets, and generate i
 
 ## Visualization
 
-![GDP Distribution](images/City_GDP_Capita.png)
+![GDP Distribution](images/City GDP Capita.png)
 ---
 
 ## Project Status
